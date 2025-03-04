@@ -3,16 +3,16 @@ module github.com/sylabs/scs-build-client
 go 1.23.0
 
 require (
-	github.com/ProtonMail/go-crypto v1.1.5
+	github.com/ProtonMail/go-crypto v1.1.6
 	github.com/gorilla/websocket v1.5.3
 	github.com/sebdah/goldie/v2 v2.5.5
-	github.com/sigstore/sigstore v1.8.14
-	github.com/spf13/cobra v1.8.1
+	github.com/sigstore/sigstore v1.8.15
+	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.10.0
 	github.com/sylabs/json-resp v0.9.4
 	github.com/sylabs/scs-library-client v1.4.11
-	github.com/sylabs/sif/v2 v2.21.0
+	github.com/sylabs/sif/v2 v2.21.1
 	golang.org/x/term v0.29.0
 )
 
@@ -21,7 +21,7 @@ require (
 	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
-	github.com/go-jose/go-jose/v4 v4.0.2 // indirect
+	github.com/go-jose/go-jose/v4 v4.0.5 // indirect
 	github.com/go-log/log v0.2.0 // indirect
 	github.com/google/go-containerregistry v0.20.3 // indirect
 	github.com/google/uuid v1.6.0 // indirect
