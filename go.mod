@@ -3,7 +3,7 @@ module github.com/sylabs/scs-build-client
 go 1.25.0
 
 require (
-	github.com/ProtonMail/go-crypto v1.3.0
+	github.com/ProtonMail/go-crypto v1.4.0
 	github.com/gorilla/websocket v1.5.3
 	github.com/sebdah/goldie/v2 v2.8.0
 	github.com/sigstore/sigstore v1.10.4
@@ -18,7 +18,7 @@ require (
 
 require (
 	github.com/blang/semver/v4 v4.0.0 // indirect
-	github.com/cloudflare/circl v1.6.1 // indirect
+	github.com/cloudflare/circl v1.6.2 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
 	github.com/go-log/log v0.2.0 // indirect
